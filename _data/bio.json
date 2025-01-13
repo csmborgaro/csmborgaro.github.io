@@ -6,7 +6,7 @@
     "email": "borgaro.apl@gmail.com",
     "phone": "",
     "website": "https://csmborgaro.github.io",
-    "summary": "I am a graduate of Computer Science and I enjoy learning new skills and applying them to my works.",
+    "summary": "I am a Computer Science undergrad running for graduation. I am passionate about learning new skills and integrating them into my projects.",
     "profiles": [
       { "network": "github", "username": "Caseum Borgaro", "url": "http://github.com/csmborgaro" },
     ]
@@ -35,7 +35,7 @@
       "institution": "AMA University",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2020-06-06",
+      "startDate": "06/06/2020",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,9 +45,9 @@
     {
       "company": "Halcyon Marine Healthcare Systems Inc.",
       "position": "MIS Programmer Intern",
-      "website": "https://myhalcyonmarine.com/",
-      "startDate": "2023-11-14",
-      "endDate": "2023-12-22",
+      "website": "https://myhalcyonmarine.com",
+      "startDate": "11/14/2023",
+      "endDate": "12/22/2023",
       "summary": "",
       "highlights": [
         "Designed and implemented medical certificate applications to automate workflows and improve data accuracy at a medical clinic.",
@@ -59,10 +59,10 @@
   "volunteer": [
     {
       "organization": "Employee Retention Prediction: A Machine Learning Approach using Random Forest Classifier",
-      "website": "https://thesis-webapp-b2fv.onrender.com/",
+      "website": "https://thesis-webapp-b2fv.onrender.com",
       "position": "Software Developer",
-      "startDate": "2023-07-24",
-      "endDate": "2024-11-22",
+      "startDate": "07/24/2023",
+      "endDate": "11/22/2024",
       "summary": "Lead developer for the webapp and the machine learning model",
       "highlights": [
         "Led development of an employee retention prediction model using Random Forest Classifier.",
@@ -73,9 +73,9 @@
     {
       "organization": "Discord AI Chatbot",
       "website": "",
-      "position": "Developer",
-      "startDate": "2024-02-15",
-      "endDate": "",
+      "position": "Software Developer",
+      "startDate": "02/15/2024",
+      "endDate": "11/26/2024",
       "summary": "",
       "highlights": [
         "Developed a conversational Discord AI Chatbot with a unique personality.",
@@ -87,7 +87,7 @@
       "organization": "Takagi-san Fan Game",
       "website": "",
       "position": "Lead Developer",
-      "startDate": "2020-05-05",
+      "startDate": "05/05/2020",
       "endDate": "Present",
       "summary": "Project Lead and Lead Developer for the game.",
       "highlights": [
