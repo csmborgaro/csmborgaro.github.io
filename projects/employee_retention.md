@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/employee_retention/erp-square.png
+image: img/employee_retention/employee-retention.jpg
 title: "Employee Retention Prediction using Random Forest Classifier"
 date: 2023-07-24
 published: true
@@ -9,17 +9,16 @@ labels:
   - Python
   - Seaborn
   - Matplotlib
-  - Plotly, Plotly Dash
+  - Plotly
   - Scikit Learn
   - Flask
   - pandas
   - Jupyter Notebook
-  - Google Colab
   - GitHub
 summary: "Led the development of an employee retention prediction model using the Random Forest Classifier, based on the IBM HR dataset from Kaggle, in collaboration with an HR specialist for practical relevance."
 ---
 
-<img class="img-fluid" src="../img/employee_retention/vacay-home-page.png">
+<img class="img-fluid" src="../img/employee_retention/transparent.png">
 
 I led the development of an employee retention prediction model using the Random Forest Classifier as part of a research project. This project utilized the IBM HR dataset from Kaggle and involved collaboration with an HR specialist to ensure practical relevance.
 

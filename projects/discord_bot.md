@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/employee_retention/erp-square.png
+image: img/discord_bot/discord.jpg
 title: "Discord AI Chatbot"
 date: 2024-02-15
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "Developed an innovative Discord chatbot with AI integration to enhance user engagement. The chatsbot supports personalized chats and can send images, offering a dynamic and interactive experience for users."
 ---
 
-<img class="img-fluid" src="../img/employee_retention/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
 The Discord Chatbot project is an AI-integrated chatbot that I developed as a personal project to enhance user engagement and interaction. This project allowed me to learn how to create dynamic and interactive features within a chatbot environment.
 

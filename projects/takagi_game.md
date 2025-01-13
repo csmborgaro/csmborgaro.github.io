@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/employee_retention/erp-square.png
-title: "Employee Retention Prediction using Random Forest Classifier"
+image: img/takagi_game/takagi.jpg
+title: "Takagi-san Fan Visual Novel Game"
 date: 2020-05-05
 published: true
 labels:
@@ -15,7 +15,7 @@ labels:
 summary: "Led the development of a fan game for 'Skilled Teaser Takagi-san' using Python and Ren'Py, ensuring high-quality code and artistic integrity while managing a 26-member international team."
 ---
 
-<img class="img-fluid" src="../img/employee_retention/vacay-home-page.png">
+<img class="img-fluid" src="../img/takagi_game/transparent.png">
 
 The fan game project based on the "Skilled Teaser Takagi-san" series is a collaborative effort that I led and coordinated as the project lead and programming lead. The project involved a talented international team of 26 individuals, including developers and digital artists. This experience allowed me to learn how to manage a diverse team and ensure the production of high-quality, efficient code that met high standards.
 
