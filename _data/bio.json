@@ -18,16 +18,24 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "HTML", "CSS", "Bootstrap", "Flask", "Django" ]
+      "name": "Languages",
+      "keywords": ["Python", "Java", "HTML", "CSS"]
     },
     {
-      "name": "Libraries and Tools",
-      "keywords": [ "Seaborn", "Matplotlib", "Plotly", "Plotly Dash", "Scikit Learn", "MySQL", "Git", "GitHub", "GitLab" ]
+      "name": "Databases",
+      "keywords": ["MySQL"]
     },
     {
-      "name": "Development Environments and Platforms",
-      "keywords": [ "Replit", "Gitpod", "Jupyter Notebook", "Google Colab", "Visual Studio Code", "Windows" ]
+      "name": "Libraries",
+      "keywords": ["Seaborn", "Matplotlib", "Plotly", "Plotly Dash", "Scikit Learn"]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": ["Bootstrap", "Flask", "Django"]
+    },
+    {
+      "name": "Tools & Technologies",
+      "keywords": ["Git", "GitHub", "GitLab", "Replit", "Gitpod", "Jupyter Notebook", "Google Colab", "Visual Studio Code", "Windows"]
     }
   ],
   "education": [
