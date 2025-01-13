@@ -8,7 +8,7 @@
     "website": "https://csmborgaro.github.io",
     "summary": "I am a Computer Science undergrad running for graduation. I am passionate about learning new skills and integrating them into my projects.",
     "profiles": [
-      { "network": "github", "username": "Caseum Borgaro", "url": "http://github.com/csmborgaro" },
+      { "network": "github", "username": "Caseum Borgaro", "url": "http://github.com/csmborgaro" }
     ]
   },
   "interests": [
@@ -35,7 +35,7 @@
       "institution": "AMA University",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "06/06/2020",
+      "startDate": "2020-06-06",
       "endDate": "Present",
       "courses": [
       ]
@@ -46,23 +46,23 @@
       "company": "Halcyon Marine Healthcare Systems Inc.",
       "position": "MIS Programmer Intern",
       "website": "https://myhalcyonmarine.com",
-      "startDate": "11/14/2023",
-      "endDate": "12/22/2023",
+      "startDate": "2023-11-14",
+      "endDate": "2023-12-22",
       "summary": "",
       "highlights": [
         "Designed and implemented medical certificate applications to automate workflows and improve data accuracy at a medical clinic.",
         "Utilized Python to build user-friendly interfaces and integrate with existing medical systems.",
         "Proactively sought feedback from senior developers through code reviews, refining my coding practices and gaining valuable insights into software development best practices."
       ]
-    },
+    }
   ],
   "volunteer": [
     {
       "organization": "Employee Retention Prediction: A Machine Learning Approach using Random Forest Classifier",
       "website": "https://thesis-webapp-b2fv.onrender.com",
       "position": "Software Developer",
-      "startDate": "07/24/2023",
-      "endDate": "11/22/2024",
+      "startDate": "2023-07-24",
+      "endDate": "2024-11-22",
       "summary": "Lead developer for the webapp and the machine learning model",
       "highlights": [
         "Led development of an employee retention prediction model using Random Forest Classifier.",
@@ -74,26 +74,26 @@
       "organization": "Discord AI Chatbot",
       "website": "",
       "position": "Software Developer",
-      "startDate": "02/15/2024",
-      "endDate": "11/26/2024",
+      "startDate": "2024-02-15",
+      "endDate": "2024-11-26",
       "summary": "",
       "highlights": [
         "Developed a conversational Discord AI Chatbot with a unique personality.",
         "Integrated advanced AI model to generate contextually relevant and engaging responses.",
-        "Utilized Python programming language to create the bot’s core functionality and interactions."
+        "Utilized Python programming language to create the bot's core functionality and interactions."
       ]
     },
     {
       "organization": "Takagi-san Fan Game",
       "website": "",
       "position": "Lead Developer",
-      "startDate": "05/05/2020",
+      "startDate": "2020-05-05",
       "endDate": "Present",
       "summary": "Project Lead and Lead Developer for the game.",
       "highlights": [
         "Led and coordinated multiple international teams, comprising a total of 26 professionals including Developers and Digital Artists.",
         "Supervised the production of clean, readable code, ensuring high standards of quality and efficiency.",
-        "Utilized Python and Ren’Py as the primary programming languages for various development tasks."
+        "Utilized Python and Ren'Py as the primary programming languages for various development tasks."
       ]
     }
   ],
