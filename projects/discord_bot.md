@@ -11,10 +11,10 @@ labels:
   - Flask
   - aiohttp
   - Pillow
-summary: "Developed an innovative Discord chatbot with AI integration to enhance user engagement. The chatsbot supports personalized chats and can send images, offering a dynamic and interactive experience for users."
+summary: "Developed an innovative Discord chatbot with AI integration to enhance user engagement. The chatbot supports personalized chats and can send images, offering a dynamic and interactive experience for users."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/discord_bot/transparent.png">
 
 The Discord Chatbot project is an AI-integrated chatbot that I developed as a personal project to enhance user engagement and interaction. This project allowed me to learn how to create dynamic and interactive features within a chatbot environment.
 
