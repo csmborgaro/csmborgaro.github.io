@@ -2,16 +2,15 @@
 layout: project
 type: project
 image: img/takagi_game/takagi.jpg
-title: "Takagi-san Fan Visual Novel Game"
-date: 2020-05-05
+title: "Takagi-san Fan Game"
+date: 2020/05/05
 published: true
 labels:
   - Python
-  - Ren'Py
   - GitHub
   - HTML
-  - JavaScript
   - CSS
+  - JavaScript
 summary: "Led the development of a fan game for 'Skilled Teaser Takagi-san' using Python and Ren'Py, ensuring high-quality code and artistic integrity while managing a 26-member international team."
 ---
 
@@ -29,8 +28,3 @@ In this project, I gained experience with various tools and technologies, includ
 - Platforms: GitHub
 - Front-end technologies: HTML, JavaScript, CSS
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/discord_bot/discord.jpg
 title: "Discord AI Chatbot"
-date: 2024-02-15
+date: 2024/02/15
 published: true
 labels:
   - Python
@@ -32,8 +32,22 @@ In this project, I gained experience with various tools and technologies, includ
 
 This project not only demonstrates the potential of AI in enhancing user engagement but also provided valuable hands-on experience with chatbot development and AI integration.
 
-Here is some example code to illustrate Simple Schema use:
+Here is some part of the code that illustrates how it checks if user is chatting with the bot:
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+```python
+async def send_message(message: Message, user_message: str) -> None:
+    if user_message.startswith(bot_name):
+        user_message     = user_message[22:].strip()
+        author_name:     str = str(message.author)
+        author_id:       str = str(message.author.id)
+        convo = f'{author_name} : {user_message}'
+        try:
+            response: str = await rp.get_response(convo, author_id)
+            await message.channel.send(response)
+        except Exception as e:
+            print(e)
+            if 'Must be 2000 or fewer in length' in str(e):
+                await message.channel.send(f'<@{message.author.id}>, Oops! I can only handle requests under 2000 characters. Try rephrasing your question.')
+            else:
+                raise e
+```
