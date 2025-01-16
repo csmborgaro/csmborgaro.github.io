@@ -26,9 +26,8 @@ For those who enjoy roleplaying, the chatbot can engage in various scenarios, ad
 
 In this project, I gained experience with various tools and technologies, including:
 - Programming languages: Python
-- Libraries: Discord.py, Pillow
+- Libraries: Discord.py, Pillow, aiohttp
 - Frameworks: Flask
-- Development environments: aiohttp
 
 This project not only demonstrates the potential of AI in enhancing user engagement but also provided valuable hands-on experience with chatbot development and AI integration.
 
