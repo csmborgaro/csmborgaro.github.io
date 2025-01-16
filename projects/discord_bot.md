@@ -20,7 +20,7 @@ The Discord Chatbot project is an AI-integrated chatbot that I developed as a pe
 
 The chatbot is implemented using [Python](https://python.org) and the [Discord.py](https://discordpy.readthedocs.io/) library. Within a few weeks, I developed a range of features, including personalized conversations tailored to users' preferences and interests.
 
-One key feature is the bot's ability to perform image manipulation using the [Pillow](https://python-pillow.org/) library, which creates personalized "thank you" notifications for users who boost the server. Additionally, the bot can respond to requests for endearments, such as sending a goodnight kiss with an image and mentioning the user.
+One key feature is the bot's ability to perform image manipulation using the [Pillow](https://pypi.org/project/pillow/) library, which creates personalized "thank you" notifications for users who boost the server. Additionally, the bot can respond to requests for endearments, such as sending a goodnight kiss with an image and mentioning the user.
 
 For those who enjoy roleplaying, the chatbot can engage in various scenarios, adding a fun and interactive element to the user experience. This project showcases the integration of AI to create a dynamic and engaging environment for Discord users.
 
