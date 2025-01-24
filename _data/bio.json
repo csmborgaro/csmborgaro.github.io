@@ -6,7 +6,7 @@
     "email": "borgaro.apl@gmail.com",
     "phone": "",
     "website": "https://csmborgaro.github.io",
-    "summary": "I am a Computer Science undergrad running for graduation. I am passionate about learning new skills and integrating them into my projects.",
+    "summary": "I'm a fresh graduate, running for graduation with a degree in Computer Science, and actively seeking opportunities in the tech industry.\\nI am passionate about learning new skills and integrating them into my projects, My goal is to leverage my creativity and technical skills to contribute to cutting-edge software solutions.",
     "profiles": [
       { "network": "github", "username": "Caseum Borgaro", "url": "http://github.com/csmborgaro" }
     ]
@@ -40,7 +40,7 @@
   ],
   "education": [
     {
-      "institution": "AMA University",
+      "institution": "AMA Computer College",
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2020/06/06",
