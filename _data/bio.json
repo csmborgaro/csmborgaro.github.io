@@ -6,7 +6,7 @@
     "email": "borgaro.apl@gmail.com",
     "phone": "",
     "website": "https://csmborgaro.github.io",
-    "summary": "I'm a fresh graduate, running for graduation with a degree in Computer Science, and actively seeking opportunities in the tech industry.\\nI am passionate about learning new skills and integrating them into my projects, My goal is to leverage my creativity and technical skills to contribute to cutting-edge software solutions.",
+    "summary": "I'm currently running for graduation with a degree in Computer Science, and I'm actively seeking opportunities in the tech industry. I'm passionate about learning new skills and integrating them into my projects, I aim to leverage my creativity and technical skills to contribute to cutting-edge software solutions.",
     "profiles": [
       { "network": "github", "username": "Caseum Borgaro", "url": "http://github.com/csmborgaro" }
     ]
@@ -46,6 +46,7 @@
       "startDate": "2020/06/06",
       "endDate": "Present",
       "courses": [
+        "Currently running for graduation, with an expected completion in June or August 2025."
       ]
     }
   ],
@@ -59,8 +60,8 @@
       "summary": "",
       "highlights": [
         "Designed and implemented medical certificate applications to automate workflows and improve data accuracy at a medical clinic.",
-        "Utilized Python to build user-friendly interfaces and integrate with existing medical systems.",
-        "Proactively sought feedback from senior developers through code reviews, refining my coding practices and gaining valuable insights into software development best practices."
+        "Developed easily readable and self-documenting code using Python, ensuring seamless integration with existing medical systems.",
+        "Actively sought feedback from senior developers to refine coding practices and learn software development best practices."
       ]
     }
   ],
@@ -74,7 +75,7 @@
       "summary": "Lead developer for the webapp and the machine learning model",
       "highlights": [
         "Led development of an employee retention prediction model using Random Forest Classifier.",
-        "Implemented a robust data pipeline and deployed an interactive web application using Python (Flask, Plotly Dash).",
+        "Implemented a robust data pipeline and deployed an interactive web application with Python (Flask, Plotly Dash).",
         "Utilized advanced machine learning techniques for data analysis, model training, and evaluation."
       ]
     },
@@ -88,7 +89,7 @@
       "highlights": [
         "Developed a conversational Discord AI Chatbot with a unique personality.",
         "Integrated advanced AI model to generate contextually relevant and engaging responses.",
-        "Utilized Python programming language to create the bot's core functionality and interactions."
+        "Utilized Python to create the bot's core functionality and interactions."
       ]
     },
     {
@@ -101,7 +102,7 @@
       "highlights": [
         "Led and coordinated multiple international teams, comprising a total of 26 professionals including Developers and Digital Artists.",
         "Supervised the production of clean, readable code, ensuring high standards of quality and efficiency.",
-        "Utilized Python and Ren'Py as the primary programming languages for various development tasks."
+        "Utilized Python as the primary programming language for various development tasks."
       ]
     }
   ],
