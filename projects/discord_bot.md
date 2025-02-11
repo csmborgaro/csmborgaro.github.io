@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/discord_bot/discord.jpg
 title: "Discord AI Chatbot"
-date: 2024/02/15
+date: 02/2024
 published: true
 labels:
   - Python

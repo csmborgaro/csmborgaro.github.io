@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/takagi_game/takagi.jpg
 title: "Takagi-san Fan Game"
-date: 2020/05/05
+date: 05/2020
 published: true
 labels:
   - Python
