@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/discord_bot/discord.jpg
 title: "Facebook AI VTuber"
-date: 2024/02/15
+date: 02/2025
 published: true
 labels:
   - Python
@@ -17,39 +17,21 @@ summary: "Developed an advanced AI VTuber (Virtual Streamer) capable of holding 
 
 <img class="img-fluid" src="../img/discord_bot/transparent.png">
 
-The Discord Chatbot project is an AI-integrated chatbot that I developed as a personal project to enhance user engagement and interaction. This project allowed me to learn how to create dynamic and interactive features within a chatbot environment. The chatbot is designed to cater to a Discord server with up to 10,000 members, ensuring scalability and reliability by handling at least 4,000 concurrent queries and requests.
+This project involved the development of an advanced AI VTuber (Virtual Streamer) capable of engaging in real-time conversations and responding to chat interactions with a realistic text-to-speech voice. This project provided valuable experience in AI integration, virtual character animation, and real-time systems design for live streaming applications. The primary objective was to create an interactive virtual presence capable of captivating and engaging a live audience.
 
-The chatbot is implemented using [Python](https://python.org) and the [Discord.py](https://discordpy.readthedocs.io/) library. Within a few weeks, I developed a range of features, including personalized conversations tailored to users' preferences and interests.
+The AI VTuber's core functionality is implemented using [Python](https://python.org) and utilizes various libraries for natural language processing, speech synthesis, and real-time communication. A key aspect of the project was the creation of a robust pipeline for generating and delivering the VTuber's responses. This pipeline begins with a Large Language Model (LLM) that generates text based on user input. This text is then passed to a text-to-speech (TTS) engine, which synthesizes natural-sounding speech, conveying emotion based on the context.
 
-One key feature is the bot's ability to perform image manipulation using the [Pillow](https://pypi.org/project/pillow/) library, which creates personalized "thank you" notifications for users who boost (sponsor) the Discord server. Additionally, the bot can respond to requests for endearments, such as sending a goodnight kiss with an image and mentioning the user.
+The VTuber's visual representation is driven by a 2D Live2D model, rendered and animated within [VTube Studio](https://store.steampowered.com/app/1325860/VTube_Studio/). To achieve a seamless and immersive experience, precise lip synchronization between the synthesized speech and the avatar's mouth movements is maintained using virtual audio cables. This ensures that the visual and auditory components of the VTuber's performance are perfectly aligned.
 
-For those who enjoy roleplaying and friendly conversations, the chatbot can engage in such scenarios, adding a fun and interactive element to the user experience. This project showcases the integration of AI to create a dynamic and engaging environment for Discord users.
+A significant achievement of this project was the successful integration of these complex systems into a cohesive and performant live streaming platform. During its initial demonstration stream, the AI VTuber attracted over **25,000 views** in a single day, demonstrating strong interest and positive reception from the target community. This validates the project's potential for enhancing audience engagement in live streaming environments.
 
 In this project, I gained experience with various tools and technologies, including:
 - Programming languages: Python
-- Libraries: Discord.py, Pillow, aiohttp
-- Frameworks: Flask
+- Tools: OBS Studio, VTube Studio, Virtual Audio Cables
+- Version Control: Git, GitHub
 
-This project not only demonstrates the potential of AI in enhancing user engagement but also provided valuable hands-on experience with chatbot development and AI integration.
+This project demonstrates the potential of AI in enhancing user engagement and provided valuable hands-on experience with virtual streamer development and AI integration.
 
-Here is some part of the code that illustrates how it checks if user is chatting with the bot:
+If you'd like to see the AI VTuber in action, a recording of the demo livestream is embedded here:
 
-```python
-async def send_message(message: Message, user_message: str) -> None:
-    if user_message.startswith(bot_name):
-        user_message     = user_message[22:].strip()
-        author_name:     str = str(message.author)
-        author_id:       str = str(message.author.id)
-        convo = f'{author_name} : {user_message}'
-        try:
-            response: str = await rp.get_response(convo, author_id)
-            await message.channel.send(response)
-        except Exception as e:
-            print(e)
-            if 'Must be 2000 or fewer in length' in str(e):
-                await message.channel.send(f'<@{message.author.id}>, Oops! I can only handle requests under 2000 characters. Try rephrasing your question.')
-            else:
-                raise e
-```
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Freincarnated.lowres.page%2Fvideos%2F1264760444601381%2F&width=500&show_text=true&height=475&appId" width="500" height="475" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freincarnated.lowres.page%2Fvideos%2F1264760444601381%2F&show_text=true&width=560&t=494" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
