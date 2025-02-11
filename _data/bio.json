@@ -71,6 +71,19 @@
   ],
   "volunteer": [
     {
+      "organization": "Facebook AI VTuber",
+      "website": "",
+      "position": "Software Developer",
+      "startDate": "02/2025",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developed an advanced AI VTuber (Virtual Streamer) capable of holding a conversation and replying to it's chat using a realistic text to speech voice.",
+        "During its first-ever demo stream, the AI VTuber attracted over 25,000 views in a single day.",
+        "Tech stack: Python, VTube Studio, OBS Studio, Git, GitHub"
+      ]
+    },
+    {
       "organization": "Discord AI Chatbot",
       "website": "",
       "position": "Software Developer",
