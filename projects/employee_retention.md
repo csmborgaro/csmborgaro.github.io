@@ -11,6 +11,8 @@ labels:
   - Scikit Learn
   - Pandas
   - Flask
+  - Git
+  - GitHub
   - Jupyter Notebook
 summary: "Led the development of an employee retention prediction model using the Random Forest Classifier, based on the IBM HR dataset from Kaggle, in collaboration with an HR specialist for practical relevance."
 ---

@@ -7,6 +7,7 @@ date: 2020/05/05
 published: true
 labels:
   - Python
+  - Git
   - GitHub
   - HTML
   - CSS

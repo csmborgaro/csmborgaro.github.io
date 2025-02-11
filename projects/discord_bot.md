@@ -11,6 +11,8 @@ labels:
   - Flask
   - aiohttp
   - Pillow
+  - Git
+  - GitHub
 summary: "Developed an innovative Discord chatbot with AI integration to enhance user engagement. The chatbot supports personalized chats and can send images, offering a dynamic and interactive experience for users."
 ---
 
