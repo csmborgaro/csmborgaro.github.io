@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/discord_bot/discord.jpg
+image: img/ai_vtuber/vtuber.jpg
 title: "Facebook AI VTuber"
 date: 02/2025
 published: true
@@ -15,7 +15,7 @@ summary: "Developed an advanced AI VTuber (Virtual Streamer) capable of holding 
 
 ---
 
-<img class="img-fluid" src="../img/discord_bot/transparent.png">
+<img class="img-fluid" src="../img/ai_vtuber/transparent.png">
 
 This project involved the development of an advanced AI VTuber (Virtual Streamer) capable of engaging in real-time conversations and responding to chat interactions with a realistic text-to-speech voice. This project provided valuable experience in AI integration, virtual character animation, and real-time systems design for live streaming applications. The primary objective was to create an interactive virtual presence capable of captivating and engaging a live audience.
 
