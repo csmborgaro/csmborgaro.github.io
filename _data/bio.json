@@ -6,7 +6,7 @@
     "email": "borgaro.apl@gmail.com",
     "phone": "",
     "website": "https://csmborgaro.github.io",
-    "summary": "I'm currently running for graduation with a degree in Computer Science, and I'm actively seeking opportunities in the tech industry. I'm passionate about learning new skills and integrating them into my projects, I aim to leverage my creativity and technical skills to contribute to cutting-edge software solutions.",
+    "summary": "I am passionate about learning new skills and integrating them into my projects, My goal is to leverage my creativity and technical skills to contribute to cutting-edge software solutions.",
     "profiles": [
       { "network": "github", "username": "Caseum Borgaro", "url": "http://github.com/csmborgaro" }
     ]
@@ -35,7 +35,11 @@
     },
     {
       "name": "Tools & Technologies",
-      "keywords": ["Git", "GitHub", "GitLab", "Replit", "Gitpod", "Jupyter Notebook", "Google Colab", "Visual Studio Code", "Windows"]
+      "keywords": ["Git", "GitHub", "GitLab", "Replit", "Gitpod", "Jupyter Notebook", "Google Colab", "Visual Studio Code", "Windows", "Microsoft Office (Excel, Word, PowerPoint)"]
+    },
+    {
+      "name": "Experiences",
+      "keywords": ["Information Systems", "Project Management", "Clinic work experience"] 
     }
   ],
   "education": [
@@ -43,66 +47,70 @@
       "institution": "AMA Computer College",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2020/06/06",
-      "endDate": "Present",
+      "startDate": "2020",
+      "endDate": "2025",
       "courses": [
-        "Currently running for graduation, with an expected completion in June or August 2025."
       ]
     }
   ],
   "work": [
     {
       "company": "Halcyon Marine Healthcare Systems Inc.",
-      "position": "MIS Programmer Intern",
+      "position": "Programmer Intern - MIS Department",
       "website": "https://myhalcyonmarine.com",
-      "startDate": "2023/11/14",
-      "endDate": "2023/12/22",
+      "startDate": "11/2023",
+      "endDate": "12/2023",
       "summary": "",
       "highlights": [
         "Designed and implemented medical certificate applications to automate workflows and improve data accuracy at a medical clinic.",
-        "Developed easily readable and self-documenting code using Python, ensuring seamless integration with existing medical systems.",
-        "Actively sought feedback from senior developers to refine coding practices and learn software development best practices."
+        "Utilized Python to build user-friendly interfaces and integrate with existing medical systems.",
+        "Proactively sought feedback from senior developers through code reviews, refining my coding practices and gaining valuable insights into software development best practices.",
+        "Tech stack: Python, Django, Flask, Git, GitLab"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Employee Retention Prediction: A Machine Learning Approach using Random Forest Classifier",
-      "website": "",
-      "position": "Software Developer",
-      "startDate": "2023/07/24",
-      "endDate": "2024/11/22",
-      "summary": "Lead developer for the webapp and the machine learning model",
-      "highlights": [
-        "Led development of an employee retention prediction model using Random Forest Classifier.",
-        "Implemented a robust data pipeline and deployed an interactive web application with Python (Flask, Plotly Dash).",
-        "Utilized advanced machine learning techniques for data analysis, model training, and evaluation."
-      ]
-    },
-    {
       "organization": "Discord AI Chatbot",
       "website": "",
       "position": "Software Developer",
-      "startDate": "2024/02/15",
-      "endDate": "2024/11/26",
+      "startDate": "02/2024",
+      "endDate": "11/2024",
       "summary": "",
       "highlights": [
         "Developed a conversational Discord AI Chatbot with a unique personality.",
         "Integrated advanced AI model to generate contextually relevant and engaging responses.",
-        "Utilized Python to create the bot's core functionality and interactions."
+        "Tech stack: Python, Flask, Git, GitHub"
+      ]
+    },
+    {
+      "organization": "Employee Retention Prediction: A Machine Learning Approach using Random Forest Classifier",
+      "website": "",
+      "position": "Lead Developer",
+      "startDate": "07/2023",
+      "endDate": "11/2024",
+      "summary": "Lead Developer for the webapp and the machine learning model",
+      "highlights": [
+        "Led development of an employee retention prediction model using Random Forest Classifier.",
+        "Implemented a robust data pipeline and deployed an interactive web application.",
+        "Utilized advanced machine learning techniques for data analysis, model training, and evaluation.",
+        "Tech stack: Python, Matplotlib, Scikit-Learn, Pandas, Flask, Git, GitHub, Jupyter Notebook"
       ]
     },
     {
       "organization": "Takagi-san Fan Game",
       "website": "",
-      "position": "Lead Developer",
-      "startDate": "2020/05/05",
+      "position": "Project Lead",
+      "startDate": "5/2020",
       "endDate": "Present",
-      "summary": "Project Lead and Lead Developer for the game.",
+      "summary": "Project Lead and Lead Programmer for the game.",
       "highlights": [
-        "Led and coordinated multiple international teams, comprising a total of 26 professionals including Developers and Digital Artists.",
-        "Supervised the production of clean, readable code, ensuring high standards of quality and efficiency.",
-        "Utilized Python as the primary programming language for various development tasks."
+        "Led and coordinated international teams of 26 professionals, including programmers and digital artists.",
+        "Supervised the creation of clean, high-quality, and efficient code, including managing source control and conducting code reviews.",
+        "Contributed to design, writing scripts and storyboards.",
+        "Created comprehensive documentation.",
+        "Oversaw recruitment, marketing, and production.",
+        "Tech stack: Python, Git, GitHub, HTML, CSS, JavaScript"
       ]
     }
   ],
