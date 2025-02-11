@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ai_vtuber/vtuber.jpg
 title: "Facebook AI VTuber"
-date: 02/2025
+date: 2025/02
 published: true
 labels:
   - Python
@@ -11,7 +11,7 @@ labels:
   - OBS Studio
   - Git
   - GitHub
-summary: "Developed an advanced AI VTuber (Virtual Streamer) capable of holding conversations and replying to its chat (viewers) using a realistic, emotionally expressive text-to-speech voice that discerns the context and emotion of the text."
+summary: "Developed an advanced AI Virtual Streamer capable of holding conversations and replying to its chat (viewers) using a realistic, emotionally expressive text-to-speech voice that discerns the context and emotion of the text."
 
 ---
 

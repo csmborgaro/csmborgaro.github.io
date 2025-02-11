@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/employee_retention/employee-retention.jpg
 title: "Employee Retention Prediction using Random Forest Classifier"
-date: 07/2023
+date: 2023/07
 published: true
 labels:
   - Python
