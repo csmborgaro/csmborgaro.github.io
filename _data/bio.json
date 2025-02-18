@@ -35,11 +35,11 @@
     },
     {
       "name": "Tools & Technologies",
-      "keywords": ["Git", "GitHub", "GitLab", "Replit", "Gitpod", "Jupyter Notebook", "Google Colab", "Visual Studio Code", "Windows", "Microsoft Office (Excel, Word, PowerPoint)"]
+      "keywords": ["Tableau", "Git", "GitHub", "GitLab", "Replit", "Gitpod", "Jupyter Notebook", "Visual Studio Code", "Windows", "Microsoft Office (Excel, Word, PowerPoint)"]
     },
     {
-      "name": "Experiences",
-      "keywords": ["Information Systems", "Project Management", "Clinic work experience"] 
+      "name": "Others",
+      "keywords": ["Information Systems", "Project Management", "Clinic work experience", "Data Analysis", "Data Visualization"] 
     }
   ],
   "education": [
